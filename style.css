@@ -88,7 +88,12 @@ body {
 }
 
 .button-container {
-    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
     justify-content: center;
 }
 
@@ -161,7 +166,9 @@ ul {
     background-color: var(--color-button-hover);
 }
 button:disabled {
-    background-color: #b5b5b5;
+    background-color: #8B8B8B;
     color: var(--color-white);
+    cursor: not-allowed;
     box-shadow: none;
+    pointer-events: none;
 }
