@@ -160,3 +160,8 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+button:disabled {
+    background-color: #b5b5b5;
+    color: var(--color-white);
+    box-shadow: none;
+}
