@@ -13,8 +13,6 @@ Este projeto consiste em um sistema que permite aos usuários adicionar nomes e,
 
 Este projeto utiliza as seguintes linguagens e tecnologias:
 
-![GitHub top language](https://img.shields.io/github/languages/top/saglicorate/challengerAmigoSecreto)
-
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge">
